@@ -10,5 +10,5 @@ Name: Khushi Gupta
 
 Roll Number: 231B430
 
-Email: khusigupta@juetguna.in
+Email: 231b430@juetguna.in
 
